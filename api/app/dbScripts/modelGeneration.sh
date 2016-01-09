@@ -1,0 +1,1 @@
+phalcon model --schema=list_estate --get-set --doc --output=app/models --name=estate

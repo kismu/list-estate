@@ -1,0 +1,4 @@
+.idea
+front-end/**/*.js
+front-end/**/*.js.map
+front-end/node_modules/

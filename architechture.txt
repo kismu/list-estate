@@ -1,0 +1,3 @@
+Angular2 Front End. list-estate.sk/
+PhalconPHP api. api.list-estate.sk/
+MYSQL DB
