@@ -1,6 +1,4 @@
-DROP DATABASE IF EXISTS `list_estate`;
-CREATE DATABASE `list_estate`;
-USE `list_estate`;
+
 --
 -- Table structure for table `estate`
 --

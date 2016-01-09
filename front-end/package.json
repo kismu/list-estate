@@ -6,8 +6,8 @@
     "tsc": "tsc -p app",
     "tsc:w": "tsc -p app -w",
     "lite": "lite-server",
-    "webpack": "node_modules/.bin/webpack app/bootstrap.js public/js/list-estate.js --progress --colors",
-    "webpack:w": "node_modules/.bin/webpack app/bootstrap.js public/js/list-estate.js --progress --colors --watch",
+    "webpack": "node_modules/.bin/webpack --progress --colors",
+    "webpack:w": "node_modules/.bin/webpack --progress --colors --watch",
     "liveserver": "live-server --entry-file=public/index.html",
     "start": "concurrent \"npm run tsc:w\" \"npm run webpack:w\" \"npm run liveserver\" "
   },
