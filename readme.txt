@@ -23,7 +23,7 @@ npm install
 
 to install the dependecies.
 
-You can start the front-end application by runningt he command 
+You can start the front-end application by running the command 
 
 npm start
 
